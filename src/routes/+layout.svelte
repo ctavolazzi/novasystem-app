@@ -2,6 +2,7 @@
 	import Heading from './heading.svelte'
 
 	import '@skeletonlabs/skeleton/themes/theme-crimson.css'
+	import '@skeletonlabs/skeleton/themes/theme-vintage.css'
 	import '@skeletonlabs/skeleton/styles/all.css'
 	import '../app.postcss'
 </script>
